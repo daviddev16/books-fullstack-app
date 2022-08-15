@@ -1,6 +1,6 @@
 # Books Manager
 
-A ideia é criar um gerenciador de livros e aluguéis, como um sistema de biblioteca. Ainda está em processo de desenvolvimento, quando tiver tempo eu atualizo. No momento estou criando o sistema de autenticação por JWT no Web service.
+A ideia é criar um gerenciador de livros e aluguéis, como um sistema de biblioteca. Ainda está em processo de desenvolvimento, quando tiver tempo eu atualizo. No momento estou criando o sistema de autenticação por JWT no Web service. Por enquanto não criei o projeto da UI e do Java Wrapper, quero focar em fazer o web service primeiro.
 
 # Esquema
 
